@@ -1,0 +1,11 @@
+[
+	{
+		"label": "Getting started",
+		"children": [
+			{
+				"label": "Before you start",
+				"file": "1_gettingstarted/1_before_you_open.md"
+			}
+		]
+	}
+]
