@@ -5,7 +5,15 @@
 			{
 				"label": "Obtaining a license",
 				"file": "1_gettingstarted/1_obtain_license.md"
-			}
+			},
+			{
+				"label": "Download Companion",
+				"file": "1_gettingstarted/2_download_companion.md"
+			},
+			{
+				"label": "Set up cloud",
+				"file": "1_gettingstarted/3_setup_cloud.md"
+			},			
 		]
 	}
 ]
