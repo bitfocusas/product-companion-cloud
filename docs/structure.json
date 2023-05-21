@@ -11,9 +11,13 @@
 				"file": "1_gettingstarted/2_download_companion.md"
 			},
 			{
-				"label": "Set up cloud",
+				"label": "Start the cloud server",
 				"file": "1_gettingstarted/3_setup_cloud.md"
-			}			
+			},
+			{
+				"label": "Set up a client",
+				"file": "1_gettingstarted/4_setup_client.md"
+			}
 		]
 	}
 ]
