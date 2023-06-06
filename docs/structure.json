@@ -1,9 +1,9 @@
 [
 	{
-		"label": "Companion Cloud BETA",
+		"label": "Companion Cloud",
 		"children": [
 			{
-				"label": "Companion Cloud BETA",
+				"label": "Closed Beta",
 				"file": "1_gettingstarted/1_beta.md"
 			}
 		]
