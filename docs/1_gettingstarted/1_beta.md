@@ -1,5 +1,3 @@
-## Introducing the Closed Beta Program for Companion Cloud
-
 We're excited to welcome you to the licensed beta of our latest premier service, Companion Cloud. Your insights and suggestions will greatly contribute to the continuous evolution and enhancement of our platform.
 
 For in-depth instructions and ongoing updates, please check out this living document:
