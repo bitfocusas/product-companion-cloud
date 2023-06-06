@@ -1,22 +1,10 @@
 [
 	{
-		"label": "Getting started",
+		"label": "Companion Cloud BETA",
 		"children": [
 			{
-				"label": "Obtaining a license",
-				"file": "1_gettingstarted/1_obtain_license.md"
-			},
-			{
-				"label": "Download Companion",
-				"file": "1_gettingstarted/2_download_companion.md"
-			},
-			{
-				"label": "Start the cloud server",
-				"file": "1_gettingstarted/3_setup_cloud.md"
-			},
-			{
-				"label": "Set up a client",
-				"file": "1_gettingstarted/4_setup_client.md"
+				"label": "Companion Cloud BETA",
+				"file": "1_gettingstarted/1_beta.md"
 			}
 		]
 	}
