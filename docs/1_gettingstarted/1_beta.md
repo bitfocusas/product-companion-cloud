@@ -9,10 +9,3 @@ We value your input and encourage you to suggest any modifications to the docume
 ## Engage with us on Slack
 
 Join the conversation on our Slack channel `#companion-cloud` at the [Bitfocus Slack](https://bitfocus.io/api/slackinvite) to share your thoughts, ideas, and feedback.
-
-## About the beta license
-
-- You can have one server running
-- Unlimited number of remote clients
-- You can see the license duration on user.bitfocus.io (subscriptions tab)
-- Please DON'T use this in production
