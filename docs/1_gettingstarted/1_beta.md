@@ -12,4 +12,4 @@ Join the conversation on our Slack channel **`#companion-cloud`** at the [Bitfoc
 
 ## Subscription product
 
-This will end up as a subscription based product once we're satisfied the testing.
+This will end up as a subscription based product once we're satisfied with the testing.
