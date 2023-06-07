@@ -1,4 +1,4 @@
-We're excited to welcome you to the licensed beta of our new service, Companion Cloud. Your insights and suggestions will greatly contribute to the continuous evolution and enhancement of our platform.
+We're excited to welcome you to the free beta of our new service, Companion Cloud. Your insights and suggestions will greatly contribute to the continuous evolution and enhancement of our platform.
 
 For in-depth instructions and ongoing updates, please check out this living document:
 
@@ -9,3 +9,7 @@ We value your input and encourage you to suggest any modifications to the docume
 ## Engage with us on Slack
 
 Join the conversation on our Slack channel **`#companion-cloud`** at the [Bitfocus Slack](https://bitfocus.io/api/slackinvite) to share your thoughts, ideas, and feedback.
+
+## Subscription product
+
+This will end up as a subscription based product once we're satisfied the testing.
